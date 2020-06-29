@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="hell" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d65dc349-2282-430e-89de-ae30513f3f08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6P_API_27" />
+  <component name="ProjectId" id="1dzvvpIbReYVWQrGu7db5MCfYL8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.flutterplugindemo2_example" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.example/lib/main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/example" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65dc349-2282-430e-89de-ae30513f3f08" name="Default Changelist" comment="" />
+      <created>1593440969623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593440969623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="128" key="AndroidProcessChooserDialog" timestamp="1593445500733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="128" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1593445500733" />
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom" timestamp="1593458189994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593458189994" />
+    <state width="1306" height="221" key="GridCell.Tab.0.center" timestamp="1593458189994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593458189994" />
+    <state width="1306" height="221" key="GridCell.Tab.0.left" timestamp="1593458189994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593458189994" />
+    <state width="1306" height="221" key="GridCell.Tab.0.right" timestamp="1593458189994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593458189994" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1593457234142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593457234142" />
+    <state x="380" y="97" width="606" height="534" key="find.popup" timestamp="1593457360647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="97" width="606" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1593457360647" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1593446648592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593446648592" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593457231067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593457231067" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/flutterplugindemo2.dart</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
